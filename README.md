@@ -1,0 +1,23 @@
+# 🚀 30 Days of Java
+
+Welcome to my **30 Days of Java** challenge!
+
+I am learning Java by building one project every day and uploading the source code here.
+
+## 📅 Projects
+
+### ✅ Day 1 - Leap Year Checker
+- Checks whether a given year is a leap year.
+
+### ✅ Day 2 - Simple Calculator
+- Performs addition, subtraction, multiplication, division, and modulus using Java.
+
+More projects coming soon...
+
+## 🛠 Technologies Used
+- Java
+- VS Code
+- Git
+- GitHub
+
+⭐ Feel free to explore the projects and follow my learning journey!
