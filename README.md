@@ -12,6 +12,10 @@ I am learning Java by building one project every day and uploading the source co
 ### ✅ Day 2 - Simple Calculator
 - Performs addition, subtraction, multiplication, division, and modulus using Java.
 
+### ✅ Day 3 - Largest of Three Numbers
+
+- Determines the largest number among three user inputs using Java. 
+
 More projects coming soon...
 
 ## 🛠 Technologies Used
