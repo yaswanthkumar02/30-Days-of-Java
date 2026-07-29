@@ -14,7 +14,12 @@ I am learning Java by building one project every day and uploading the source co
 
 ### ✅ Day 3 - Largest of Three Numbers
 
-- Determines the largest number among three user inputs using Java. 
+- Determines the largest number among three user inputs using Java.
+
+### ✅ Day 4 - Prime Number Checker**
+
+- Checks whether a given number is a Prime Number using Java.
+- Optimized by checking divisibility only up to `√n` using `Math.sqrt()`.
 
 More projects coming soon...
 
