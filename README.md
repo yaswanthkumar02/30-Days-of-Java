@@ -21,6 +21,10 @@ I am learning Java by building one project every day and uploading the source co
 - Checks whether a given number is a Prime Number using Java.
 - Optimized by checking divisibility only up to `√n` using `Math.sqrt()`.
 
+### ✅ Day 5 - Fibonacci Series
+
+- Prints the Fibonacci Series based on the Length of Fibonacci Series entered by the user.
+- Generates the series using variables, a `for` loop, and user input (`Scanner`).
 More projects coming soon...
 
 ## 🛠 Technologies Used
