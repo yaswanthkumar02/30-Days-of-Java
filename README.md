@@ -19,12 +19,19 @@ I am learning Java by building one project every day and uploading the source co
 ### ✅ Day 4 - Prime Number Checker**
 
 - Checks whether a given number is a Prime Number using Java.
-- Optimized by checking divisibility only up to `√n` using `Math.sqrt()`.
+- Optimized by checking divisibility only up to `√n` using `Math.sqrt()`
 
 ### ✅ Day 5 - Fibonacci Series
 
 - Prints the Fibonacci Series based on the Length of Fibonacci Series entered by the user.
 - Generates the series using variables, a `for` loop, and user input (`Scanner`).
+
+ ### ✅ Day 6 - Armstrong Number
+
+- Checks whether a given number is an Armstrong Number using Java.
+- Extracts each digit, raises it to the power of the total number of digits using `Math.Pow()`, and compares the calculated sum with the original number.
+
+  
 More projects coming soon...
 
 ## 🛠 Technologies Used
