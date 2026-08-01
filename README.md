@@ -31,6 +31,12 @@ I am learning Java by building one project every day and uploading the source co
 - Checks whether a given number is an Armstrong Number using Java.
 - Extracts each digit, raises it to the power of the total number of digits using `Math.Pow()`, and compares the calculated sum with the original number.
 
+ ### ✅ Day 7 - Palindrome Number
+
+- Checks whether a given number is a Palindrome Number using Java.
+- Reverses the number by extracting each digit using the modulus (`%`) and division (`/`) operators, then compares the reversed number with the original number.
+
+  
   
 More projects coming soon...
 
