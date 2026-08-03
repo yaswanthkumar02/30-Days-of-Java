@@ -36,6 +36,15 @@ I am learning Java by building one project every day and uploading the source co
 - Checks whether a given number is a Palindrome Number using Java.
 - Reverses the number by extracting each digit using the modulus (`%`) and division (`/`) operators, then compares the reversed number with the original number.
 
+### ✅ Day 8 - Reversing a Number
+
+- Reverses a given number using Java.
+- Extracts each digit using the modulus (`%`) operator, builds the reversed number using multiplication (`* 10`), and removes digits using integer division (`/`).
+
+### ✅ Day 9 - Factorial of a Number
+
+- Calculates the factorial of a given number using Java.
+- Uses a `for` loop to multiply numbers from `1` to the given number and displays the factorial.
   
   
 More projects coming soon...
