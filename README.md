@@ -45,6 +45,11 @@ I am learning Java by building one project every day and uploading the source co
 
 - Calculates the factorial of a given number using Java.
 - Uses a `for` loop to multiply numbers from `1` to the given number and displays the factorial.
+
+### ✅ Day 10 - Number Patterns
+
+- Prints two different number patterns using Java.
+- Demonstrates the use of nested `for` loops to generate a **Square Number Pattern** and an **Triangle Number Pattern** by controlling rows and columns.
   
   
 More projects coming soon...
