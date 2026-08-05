@@ -50,14 +50,20 @@ I am learning Java by building one project every day and uploading the source co
 
 - Prints two different number patterns using Java.
 - Demonstrates the use of nested `for` loops to generate a **Square Number Pattern** and an **Triangle Number Pattern** by controlling rows and columns.
+
+### ✅ Day 11 - Array Operations
+
+- Performs common array operations using Java.
+- Accepts array input from the user, sorts the array using `Arrays.sort()`, displays the sorted elements through a separate `display()` method, and finds the **Maximum**      and **Minimum** elements.
   
   
 More projects coming soon...
 
-## 🛠 Technologies Used
+## 🛠 Technologies Used 🛠 ##
 - Java
 - VS Code
 - Git
 - GitHub
 
-⭐ Feel free to explore the projects and follow my learning journey!
+
+
