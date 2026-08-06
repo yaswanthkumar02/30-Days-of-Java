@@ -55,6 +55,11 @@ I am learning Java by building one project every day and uploading the source co
 
 - Performs common array operations using Java.
 - Accepts array input from the user, sorts the array using `Arrays.sort()`, displays the sorted elements through a separate `display()` method, and finds the **Maximum**      and **Minimum** elements.
+
+### ✅ Day 12 - Sorting an Array
+
+- Sorts integer arrays in Ascending and Descending order using Java.
+- Demonstrates the use of `Arrays.sort()`, `Collections.reverseOrder()`, and alphabetical sorting of a `String` array.
   
   
 More projects coming soon...
