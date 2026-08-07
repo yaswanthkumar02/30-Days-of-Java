@@ -60,6 +60,11 @@ I am learning Java by building one project every day and uploading the source co
 
 - Sorts integer arrays in Ascending and Descending order using Java.
 - Demonstrates the use of `Arrays.sort()`, `Collections.reverseOrder()`, and alphabetical sorting of a `String` array.
+
+### ✅ Day 13 - String Reversal
+
+- Reverses a given String using Java.
+- Uses `length()` and `charAt()` methods with a `for` loop to access characters from the end of the String and build the reversed String.
   
   
 More projects coming soon...
@@ -69,6 +74,3 @@ More projects coming soon...
 - VS Code
 - Git
 - GitHub
-
-
-
