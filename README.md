@@ -65,6 +65,12 @@ I am learning Java by building one project every day and uploading the source co
 
 - Reverses a given String using Java.
 - Uses `length()` and `charAt()` methods with a `for` loop to access characters from the end of the String and build the reversed String.
+
+### ✅ Day 14 - String Palindrome
+
+- Checks whether a given String is a Palindrome using Java.
+- Reverses the String using a `for` loop, `length()` and `charAt()`, then compares the original String with the reversed String using `equals()`.
+  
   
   
 More projects coming soon...
