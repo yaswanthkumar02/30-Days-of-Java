@@ -70,6 +70,11 @@ I am learning Java by building one project every day and uploading the source co
 
 - Checks whether a given String is a Palindrome using Java.
 - Reverses the String using a `for` loop, `length()` and `charAt()`, then compares the original String with the reversed String using `equals()`.
+
+### ✅ Day 15 - Count Vowels in a String
+
+- Counts the number of vowels present in a string using Java.
+- Accepts a string from the user, checks each character using `charAt()` and conditional statements, and counts both uppercase and lowercase vowels.
   
   
   
