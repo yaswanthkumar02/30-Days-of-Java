@@ -75,6 +75,11 @@ I am learning Java by building one project every day and uploading the source co
 
 - Counts the number of vowels present in a string using Java.
 - Accepts a string from the user, checks each character using `charAt()` and conditional statements, and counts both uppercase and lowercase vowels.
+
+### ✅ Day 16 - Class and Object
+
+- Created a `Student` class with student ID, name, age, and course details.
+- Practiced creating an object, assigning values to instance variables, and displaying student details using a method.
   
   
   
