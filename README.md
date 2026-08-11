@@ -80,7 +80,11 @@ I am learning Java by building one project every day and uploading the source co
 
 - Created a `Student` class with student ID, name, age, and course details.
 - Practiced creating an object, assigning values to instance variables, and displaying student details using a method.
-  
+
+### ✅ Day 16 - Constructors in Java
+
+- Practiced constructors in Java by creating both no-argument and parameterized constructors.
+- Implemented constructor overloading using different constructors to initialize object values and display the details.
   
   
 More projects coming soon...
