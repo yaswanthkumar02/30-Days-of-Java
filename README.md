@@ -82,12 +82,19 @@ I am learning Java by building one project every day and uploading the source co
 - Practiced creating an object, assigning values to instance variables, and displaying student details using a method.
 
 ### ✅ Day 17 - Constructors in Java
+
 - Practiced constructors in Java by creating both no-argument and parameterized constructors.
 - Implemented constructor overloading using different constructors to initialize object values and display the details.
 
 ### ✅ Day 18 - Inheritance in Java
+
 - Practiced inheritance by creating a parent `Cars` class and child classes `BMW`, `Thar`, and `Fortuner`.
 - Used the `extends` keyword, `super()` constructor, and inherited `display()` method to reuse common car properties and display details.
+
+### ✅ Day 19 - Method Overloading in Java
+
+- Practiced method overloading by creating multiple `add()` methods with different parameters.
+- Used different parameter types and different numbers of parameters to perform addition operations.
   
   
 More projects coming soon...
