@@ -95,6 +95,12 @@ I am learning Java by building one project every day and uploading the source co
 
 - Practiced method overloading by creating multiple `add()` methods with different parameters.
 - Used different parameter types and different numbers of parameters to perform addition operations.
+
+### ✅ Day 20 - Method Overriding in Java
+
+- Practiced method overriding by creating a `person` parent class and a `student` child class.
+- Overrode the `display()` method in the `student` class to provide student-specific details.
+- Used inheritance and `super()` to reuse the parent class constructor.
   
   
 More projects coming soon...
