@@ -81,26 +81,31 @@ I am learning Java by building one project every day and uploading the source co
 - Created a `Student` class with student ID, name, age, and course details.
 - Practiced creating an object, assigning values to instance variables, and displaying student details using a method.
 
-### ✅ Day 17 - Constructors in Java
+### ✅ Day 17 - Constructors 
 
 - Practiced constructors in Java by creating both no-argument and parameterized constructors.
 - Implemented constructor overloading using different constructors to initialize object values and display the details.
 
-### ✅ Day 18 - Inheritance in Java
+### ✅ Day 18 - Inheritance 
 
 - Practiced inheritance by creating a parent `Cars` class and child classes `BMW`, `Thar`, and `Fortuner`.
 - Used the `extends` keyword, `super()` constructor, and inherited `display()` method to reuse common car properties and display details.
 
-### ✅ Day 19 - Method Overloading in Java
+### ✅ Day 19 - Method Overloading 
 
 - Practiced method overloading by creating multiple `add()` methods with different parameters.
 - Used different parameter types and different numbers of parameters to perform addition operations.
 
-### ✅ Day 20 - Method Overriding in Java
+### ✅ Day 20 - Method Overriding
 
 - Practiced method overriding by creating a `person` parent class and a `student` child class.
 - Overrode the `display()` method in the `student` class to provide student-specific details.
 - Used inheritance and `super()` to reuse the parent class constructor.
+
+### ✅ Day 21 - Encapsulation
+
+- Practiced encapsulation by keeping the `Student` class variables private and accessing them through public getter and setter methods.
+- Used getters and setters to control access to `id`, `name`, and `marks`.
   
   
 More projects coming soon...
