@@ -106,6 +106,12 @@ I am learning Java by building one project every day and uploading the source co
 
 - Practiced encapsulation by keeping the `Student` class variables private and accessing them through public getter and setter methods.
 - Used getters and setters to control access to `id`, `name`, and `marks`.
+
+### ✅ Day 22 - Abstraction in Java
+
+- Practiced abstraction by creating a parent `student` class and child `Engineeringstudent` class.
+- Used an abstract method `calculategrade()` and provided its implementation in the child class.
+- Practiced hiding implementation details and focusing on the required functionality.
   
   
 More projects coming soon...
