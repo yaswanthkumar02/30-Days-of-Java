@@ -112,6 +112,11 @@ I am learning Java by building one project every day and uploading the source co
 - Practiced abstraction by creating a parent `student` class and child `Engineeringstudent` class.
 - Used an abstract method `calculategrade()` and provided its implementation in the child class.
 - Practiced hiding implementation details and focusing on the required functionality.
+
+### ✅ Day 23 - Interface in Java
+
+- Practiced interfaces by creating an `account` interface with `deposit()`, `checkbalance()`, and `withdraw()` methods.
+- Implemented the interface using the `bank` class and provided implementations for all the interface methods.
   
   
 More projects coming soon...
