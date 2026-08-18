@@ -117,7 +117,10 @@ I am learning Java by building one project every day and uploading the source co
 
 - Practiced interfaces by creating an `account` interface with `deposit()`, `checkbalance()`, and `withdraw()` methods.
 - Implemented the interface using the `bank` class and provided implementations for all the interface methods.
-  
+
+### ✅ Day 24 - Interface in Java
+- Practiced interfaces by creating an Employee interface with work() and checkErrors() methods.
+- Implemented the interface using Developer and Tester classes and provided different implementations for the interface methods.
   
 More projects coming soon...
 
