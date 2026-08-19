@@ -121,6 +121,13 @@ I am learning Java by building one project every day and uploading the source co
 ### ✅ Day 24 - Multiple interfaces in Java
 - Practiced interfaces by creating an Employee interface with work() and checkErrors() methods.
 - Implemented the interface using Developer and Tester classes and provided different implementations for the interface methods.
+
+### ✅ Day 25 - Exception Handling in Java
+  
+- Practiced exception handling using try and catch blocks and handled ArithmeticException when performing a modulo operation by zero.
+- Handled ArrayIndexOutOfBoundsException while accessing an invalid array index.
+- Tested both valid and invalid cases to understand how exceptions are handled without stopping the program.
+  
   
 More projects coming soon...
 
