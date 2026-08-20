@@ -127,6 +127,12 @@ I am learning Java by building one project every day and uploading the source co
 - Practiced exception handling using try and catch blocks and handled ArithmeticException when performing a modulo operation by zero.
 - Handled ArrayIndexOutOfBoundsException while accessing an invalid array index.
 - Tested both valid and invalid cases to understand how exceptions are handled without stopping the program.
+
+### ✅ Day 26 - File Handling in Java
+
+- Practiced file handling by creating a student.txt file and writing student details using FileWriter.
+- Read the file contents using FileReader and displayed them using a loop.
+- Handled file-related errors using IOException with try-catch.
   
   
 More projects coming soon...
