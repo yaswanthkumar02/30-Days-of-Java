@@ -133,6 +133,13 @@ I am learning Java by building one project every day and uploading the source co
 - Practiced file handling by creating a student.txt file and writing student details using FileWriter.
 - Read the file contents using FileReader and displayed them using a loop.
 - Handled file-related errors using IOException with try-catch.
+
+### ✅ Day 27 - ArrayList in Java
+
+- Practiced using `ArrayList` to store and manage integer elements dynamically.
+- Added elements using `add()`, modified an element using `set()`, and removed an element using `remove()`.
+- Used `size()` to find the number of elements and an enhanced `for` loop to display all elements.
+
   
   
 More projects coming soon...
