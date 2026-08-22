@@ -140,7 +140,14 @@ I am learning Java by building one project every day and uploading the source co
 - Added elements using `add()`, modified an element using `set()`, and removed an element using `remove()`.
 - Used `size()` to find the number of elements and an enhanced `for` loop to display all elements.
 
-  
+### ✅ Day 28 - HashMap in Java
+
+- Practiced using `HashMap` to store data in key-value pairs.
+- Added key-value pairs using `put()` and retrieved a value using `get()`.
+- Removed an entry using `remove()` and checked the number of entries using `size()`.
+- Practiced using `Integer` as the key and `String` as the value.
+
+
   
 More projects coming soon...
 
